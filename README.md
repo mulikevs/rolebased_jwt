@@ -14,9 +14,9 @@ There are several ways to run a Spring Boot application on your local machine. O
 
 Alternatively you can use the Spring Boot Maven plugin like so:
 
-Build the project using > mvn clean install
-Run using > mvn spring-boot:run
-The web application is accessible via localhost:8080
+Build the project using ``` mvn clean install ```
+Run using ``` mvn spring-boot:run ```
+The application is accessible via localhost:8080
 
 
 ##### ROLES
